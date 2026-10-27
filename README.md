@@ -126,6 +126,4 @@ PGP: `<optional fingerprint — nice touch for a security profile>`
 
 *"The most interesting bugs live where the datasheet ends."*
 
-![Profile views](https://komarev.com/ghpvc/?username=GlexN3t&color=35D07F&style=flat-square&label=views)
-
 </div>
