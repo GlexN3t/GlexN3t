@@ -7,14 +7,15 @@
 <div align="center">
 
 ```text
-   ▄████  ██▓     ██▓▄▄▄█████▓ ▄████▄   ██░ ██  ▄▄▄       ██▀███ ▓██   ██▓
-  ██▒ ▀█▒▓██▒    ▓██▒▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒▒████▄    ▓██ ▒ ██▒▒██  ██▒
- ▒██░▄▄▄░▒██░    ▒██▒▒ ▓██░ ▒░▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄  ▓██ ░▄█ ▒ ▒██ ██░
- ░▓█  ██▓▒██░    ░██░░ ▓██▓ ░ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██ ▒██▀▀█▄   ░ ▐██▓░
- ░▒▓███▀▒░██████▒░██░  ▒██▒ ░ ▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒░██▓ ▒██▒ ░ ██▒▓░
+ ██████╗ ██╗     ██╗███████╗███╗   ██╗███████╗███████╗
+██╔════╝ ██║     ██║██╔════╝████╗  ██║██╔════╝╚══███╔╝
+██║  ███╗██║     ██║█████╗  ██╔██╗ ██║█████╗    ███╔╝
+██║   ██║██║     ██║██╔══╝  ██║╚██╗██║██╔══╝   ███╔╝
+╚██████╔╝███████╗██║███████╗██║ ╚████║███████╗███████╗
+ ╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=35D07F&center=true&vCenter=true&width=620&lines=Security+Researcher+%E2%80%94+Firmware+%C2%B7+IoT+%C2%B7+RF;Breaking+things+that+fly+%F0%9F%9B%B8;Defense+%26+embedded+systems;Responsible+disclosure+only" alt="typewriter banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=35D07F&center=true&vCenter=true&width=760&height=50&lines=Security+Researcher+%E2%80%94+Firmware+%C2%B7+IoT+%C2%B7+RF;Breaking+things+that+fly+%F0%9F%9B%B8;Defense+%26+embedded+systems;Responsible+disclosure+only" alt="typewriter banner" />
 
 [![Focus](https://img.shields.io/badge/focus-firmware_%C2%B7_IoT_%C2%B7_RF_%C2%B7_UAS-35D07F?style=flat-square&labelColor=111823)](#)
 [![Disclosure](https://img.shields.io/badge/disclosure-responsible-35D07F?style=flat-square&labelColor=111823)](#)
