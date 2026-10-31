@@ -45,24 +45,6 @@ What I actually do:
 
 ---
 
-## 🎯 Disclosed vulnerabilities
-
-<!-- EDIT ME: replace each ██ row with your real findings.
-     Suggested columns: Year | Vendor / Program | Vulnerability class | Severity | Writeup link -->
-
-| Year | Vendor / Program | Vulnerability class | Severity | Writeup |
-|------|------------------|---------------------|----------|---------|
-| 20██ | ████████ | Auth bypass / signature forgery | P1 | 🔒 embargoed |
-| 20██ | ████████ | Information disclosure | P2–P3 | 🔒 embargoed |
-| 20██ | ████████ | *your finding here* | *severity* | *link* |
-
-<details>
-<summary><b>🏅 CVEs & advisories</b> <i>(click to expand — edit below)</i></summary>
-
-- `CVE-████-█████` — *vendor* — *component* — *class* — *link*
-- `CVE-████-█████` — *vendor* — *component* — *class* — *link*
-
-</details>
 
 ---
 
